@@ -1,0 +1,35 @@
+#monster-book {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  .monster-list-button {
+    display: block;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  #monster-details img {
+    max-width: 100%;
+    margin: 5px 0;
+  }
+  
+  #monster-details ul {
+    margin: 5px 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  #monster-details li {
+    margin: 5px 0;
+    padding-left: 10px;
+  }
+  
+  #monster-details h4 {
+    margin-top: 10px;
+  }
